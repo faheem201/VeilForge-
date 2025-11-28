@@ -81,8 +81,8 @@ export const LoreView: React.FC<LoreViewProps> = ({ onBackHome }) => {
             <div className="bg-slate-900/50 p-6 border border-slate-800 rounded-lg relative overflow-hidden group">
                <div className="absolute inset-0 bg-veil-primary/10 translate-y-full group-hover:translate-y-0 transition-transform duration-500"></div>
                <p className="relative z-10 font-mono text-sm text-veil-primary">
-                 > SYNCING...<br/>
-                 > STATUS: CHAMPION RISING<br/>
+                 > SYNCING... <br/>
+                 > STATUS: CHAMPION RISING <br/>
                  > WELCOME TO THE FORGE
                </p>
             </div>
